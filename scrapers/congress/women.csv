@@ -1,89 +1,89 @@
-seniority,member,party_state,start_date
-,Marcy Kaptur,"(D), OH",01-03-1983
-,Louise Slaughter,"(D), NY",01-03-1987
-,Nancy Pelosi,"(D), CA",06-02-1987
-,Nita Lowey,"(D), NY",01-03-1989
-,Ileana Ros-Lehtinen,"(R), FL",08-29-1989
-,Rosa DeLauro,"(D), CT",01-03-1991
-,Eleanor Holmes-Norton (delegate),"(D), DC",01-03-1991
-,Maxine Waters,"(D), CA",01-03-1991
-,Anna Eshoo,"(D), CA",01-03-1993
-,Eddie Bernice-Johnson,"(D), TX",01-03-1993
-,Carolyn Maloney,"(D), NY",01-03-1993
-,Lucille Roybal-Allard,"(D), CA",01-03-1993
-,Nydia Velazquez,"(D), NY",01-03-1993
-,Sheila Jackson Lee,"(D), TX",01-03-1995
-,Zoe Lofgren,"(D), CA",01-03-1995
-,Diana DeGette,"(D), CO",01-03-1997
-,Kay Granger,"(R), TX",01-03-1997
-,Barbara Lee,"(D), CA",04-07-1998
-,Grace Napolitano,"(D), CA",01-03-1999
-,Jan Schakowsky,"(D), IL",01-03-1999
-,Susan Davis,"(D), CA",01-03-2001
-,Betty McCollum,"(D), MN",01-03-2001
-,Marsha Blackburn,"(R), TN",01-03-2003
-,Madeleine Bordallo (delegate),"(D), GU",01-03-2003
-,Linda Sanchez,"(D), CA",01-03-2003
-,Virginia Foxx,"(R), NC",01-03-2005
-,Cathy McMorris-Rodgers,"(R), WA",01-03-2005
-,Gwen Moore,"(D), WI",01-03-2005
-,Debbie Wasserman-Schultz,"(D), FL",01-03-2005
-,Doris Matsui,"(D), CA",03-08-2005
-,Kathy Castor,"(D), FL",01-04-2007
-,Yvette Clarke,"(D), NY",01-04-2007
-,Niki Tsongas,"(D), MA",10-18-2007
-,Jackie Speier,"(D), CA",04-10-2008
-,Marcia Fudge,"(D), OH",11-19-2008
-,Lynn Jenkins,"(R), KS",01-06-2009
-,Chellie Pingree,"(D), ME",01-06-2009
-,Judy Chu,"(D), CA",07-16-2009
-,Karen Bass,"(D), CA",01-05-2011
-,Diane Black,"(R), TN",01-05-2011
-,Vicky Hartzler,"(R), MO",01-05-2011
-,Jaime Herrera-Beutler,"(R), WA",01-05-2011
-,Kristi Noem,"(R), SD",01-05-2011
-,Martha Roby,"(R), AL",01-05-2011
-,Terri Sewell,"(D), AL",01-05-2011
-,Frederica Wilson,"(D), FL",01-05-2011
-,Suzanne Bonamici,"(D), OR",02-07-2012
-,Suzan DelBene,"(D), WA",11-13-2012
-,Joyce Beatty,"(D), OH",01-03-2013
-,Susan Brooks,"(R), IN",01-03-2013
-,Julia Brownley,"(D), CA",01-03-2013
-,Cheri Bustos,"(D), IL",01-03-2013
-,Elizabeth Esty,"(D), CT",01-03-2013
-,Lois Frankel,"(D), FL",01-03-2013
-,Tulsi Gabbard,"(D), HI",01-03-2013
-,Michelle Lujan Grisham,"(D), NM",01-03-2013
-,Ann McLane Kuster,"(D), NH",01-03-2013
-,Grace Meng,"(D), NY",01-03-2013
-,Kyrsten Sinema,"(D), AZ",01-03-2013
-,Dina Titus,"(D), NV",01-03-2013
-,Ann Wagner,"(R), MO",01-03-2013
-,Jackie Walorski,"(R), IN",01-03-2013
-,Robin Kelly,"(D), IL",04-11-2013
-,Katherine Clark,"(D), MA",12-12-2013
-,Alma Adams,"(D), NC",11-12-2014
-,Bonnie Watson Coleman,"(D), NJ",01-06-2015
-,Barbara Comstock,"(R), VA",01-06-2015
-,Debbie Dingell,"(D), MI",01-06-2015
-,Brenda Lawrence,"(D), MI",01-06-2015
-,Mia Love,"(R), UT",01-06-2015
-,Martha McSally,"(R), AZ",01-06-2015
-,Stacey Plaskett (delegate),"(D), VI",01-06-2015
-,Aumua Amata Radewagen (delegate),"(R), AS",01-06-2015
-,Kathleen Rice,"(D), NY",01-06-2015
-,Elise Stefanik,"(R), NY",01-06-2015
-,Norma Torres,"(D), CA",01-06-2015
-,Mimi Walters,"(R), CA",01-06-2015
-,Colleen Hanabusa*,"(D), HI",tbd
-,Nanette Barragan,"(D), CA",01-03-2017
-,Liz Cheney,"(R), WY",01-03-2017
-,Val Demings,"(D), FL",01-03-2017
-,Jennifer Gonzalez (delegate),"(D), PR",01-03-2017
-,Pramila Jayapal,"(D), WA",01-03-2017
-,Stephanie Murphy,"(D), FL",01-03-2017
-,Lisa Blunt Rochester,"(D), DE",01-03-2017
-,Jacky Rosen,"(D), NV",01-03-2017
-,Carol Shea-Porter *,"(D), NH",01-03-2017
-,Claudia Tenney,"(R), NY",01-03-2017
+seniority,member,party,state,start_date
+1,Marcy Kaptur,D,OH,01-03-1983
+2,Louise Slaughter,D,NY,01-03-1987
+3,Nancy Pelosi,D,CA,06-02-1987
+4,Nita Lowey,D,NY,01-03-1989
+5,Ileana Ros-Lehtinen,R,FL,08-29-1989
+6,Rosa DeLauro,D,CT,01-03-1991
+7,Eleanor Holmes-Norton (delegate),D,DC,01-03-1991
+8,Maxine Waters,D,CA,01-03-1991
+9,Anna Eshoo,D,CA,01-03-1993
+10,Eddie Bernice-Johnson,D,TX,01-03-1993
+11,Carolyn Maloney,D,NY,01-03-1993
+12,Lucille Roybal-Allard,D,CA,01-03-1993
+13,Nydia Velazquez,D,NY,01-03-1993
+14,Sheila Jackson Lee,D,TX,01-03-1995
+15,Zoe Lofgren,D,CA,01-03-1995
+16,Diana DeGette,D,CO,01-03-1997
+17,Kay Granger,R,TX,01-03-1997
+18,Barbara Lee,D,CA,04-07-1998
+19,Grace Napolitano,D,CA,01-03-1999
+20,Jan Schakowsky,D,IL,01-03-1999
+21,Susan Davis,D,CA,01-03-2001
+22,Betty McCollum,D,MN,01-03-2001
+23,Marsha Blackburn,R,TN,01-03-2003
+24,Madeleine Bordallo (delegate),D,GU,01-03-2003
+25,Linda Sanchez,D,CA,01-03-2003
+26,Virginia Foxx,R,NC,01-03-2005
+27,Cathy McMorris-Rodgers,R,WA,01-03-2005
+28,Gwen Moore,D,WI,01-03-2005
+29,Debbie Wasserman-Schultz,D,FL,01-03-2005
+30,Doris Matsui,D,CA,03-08-2005
+31,Kathy Castor,D,FL,01-04-2007
+32,Yvette Clarke,D,NY,01-04-2007
+33,Niki Tsongas,D,MA,10-18-2007
+34,Jackie Speier,D,CA,04-10-2008
+35,Marcia Fudge,D,OH,11-19-2008
+36,Lynn Jenkins,R,KS,01-06-2009
+37,Chellie Pingree,D,ME,01-06-2009
+38,Judy Chu,D,CA,07-16-2009
+39,Karen Bass,D,CA,01-05-2011
+40,Diane Black,R,TN,01-05-2011
+41,Vicky Hartzler,R,MO,01-05-2011
+42,Jaime Herrera-Beutler,R,WA,01-05-2011
+43,Kristi Noem,R,SD,01-05-2011
+44,Martha Roby,R,AL,01-05-2011
+45,Terri Sewell,D,AL,01-05-2011
+46,Frederica Wilson,D,FL,01-05-2011
+47,Suzanne Bonamici,D,OR,02-07-2012
+48,Suzan DelBene,D,WA,11-13-2012
+49,Joyce Beatty,D,OH,01-03-2013
+50,Susan Brooks,R,IN,01-03-2013
+51,Julia Brownley,D,CA,01-03-2013
+52,Cheri Bustos,D,IL,01-03-2013
+53,Elizabeth Esty,D,CT,01-03-2013
+54,Lois Frankel,D,FL,01-03-2013
+55,Tulsi Gabbard,D,HI,01-03-2013
+56,Michelle Lujan Grisham,D,NM,01-03-2013
+57,Ann McLane Kuster,D,NH,01-03-2013
+58,Grace Meng,D,NY,01-03-2013
+59,Kyrsten Sinema,D,AZ,01-03-2013
+60,Dina Titus,D,NV,01-03-2013
+61,Ann Wagner,R,MO,01-03-2013
+62,Jackie Walorski,R,IN,01-03-2013
+63,Robin Kelly,D,IL,04-11-2013
+64,Katherine Clark,D,MA,12-12-2013
+65,Alma Adams,D,NC,11-12-2014
+66,Bonnie Watson Coleman,D,NJ,01-06-2015
+67,Barbara Comstock,R,VA,01-06-2015
+68,Debbie Dingell,D,MI,01-06-2015
+69,Brenda Lawrence,D,MI,01-06-2015
+70,Mia Love,R,UT,01-06-2015
+71,Martha McSally,R,AZ,01-06-2015
+72,Stacey Plaskett (delegate),D,VI,01-06-2015
+73,Aumua Amata Radewagen (delegate),R,AS,01-06-2015
+74,Kathleen Rice,D,NY,01-06-2015
+75,Elise Stefanik,R,NY,01-06-2015
+76,Norma Torres,D,CA,01-06-2015
+77,Mimi Walters,R,CA,01-06-2015
+78,Colleen Hanabusa*,D,HI,tbd
+79,Nanette Barragan,D,CA,01-03-2017
+80,Liz Cheney,R,WY,01-03-2017
+81,Val Demings,D,FL,01-03-2017
+82,Jennifer Gonzalez (delegate),D,PR,01-03-2017
+83,Pramila Jayapal,D,WA,01-03-2017
+84,Stephanie Murphy,D,FL,01-03-2017
+85,Lisa Blunt Rochester,D,DE,01-03-2017
+86,Jacky Rosen,D,NV,01-03-2017
+87,Carol Shea-Porter *,D,NH,01-03-2017
+88,Claudia Tenney,R,NY,01-03-2017
